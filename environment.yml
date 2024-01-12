@@ -1,0 +1,9 @@
+name: arcpy
+channels:
+  - conda-forge
+  - esri
+dependencies:
+  - arcgis
+  - boto3
+  - numpy
+  - matplotlib
